@@ -1,0 +1,4 @@
+1:-
+javac -d out -sourcepath . game\userInterface\WhackAMoleGame.java
+2:- 
+java -cp out game.userInterface.WhackAMoleGame
